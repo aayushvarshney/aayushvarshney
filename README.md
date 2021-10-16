@@ -1,7 +1,7 @@
 **Hello  👋, I’m @AayushVarshney**
-- ✌ Pre-final year CSE undergrad at `NIT Jalandhar`.
-- 👀 I’m a self-taught programmer currently into `Web Development` and `Competitive Programming`. 
-- ✨ Loves Problem solving and building useful Web-apps with a certainly better UI.
+- ✌  Pre-final year CSE undergrad at `NIT Jalandhar`.
+- 👀 Self-taught programmer currently into `Web Development` and `Competitive Programming`. 
+- ✨ Loves Problem solving and building useful Web apps with a certainly better UI.
 - 🌱 I’m currently learning `React.js`.
 - 📫 Let's connect on <a href="https://www.linkedin.com/in/aayushvarshney/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> or ping at aayushvarshney24@gmail.com incase you want to get in touch with me!
 
