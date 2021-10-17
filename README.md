@@ -1,4 +1,4 @@
-<h1> Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25rem" width="30rem">, I’m @AayushVarshney </h1>
+<h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25rem" width="28rem">, I’m @AayushVarshney </h1>
 
 - ✌  Pre-final year CSE undergrad at `NIT Jalandhar`.
 - 👀 Self-taught programmer currently into `Web Development` and `Competitive Programming`. 
