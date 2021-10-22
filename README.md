@@ -4,7 +4,7 @@
 - 👀 Self-taught programmer currently into `Web Development` and `Competitive Programming`. 
 - ✨ Loves `Problem solving` and building useful `web apps` with a certainly better UI.
 - 🌱 I’m currently learning `React.js`.
-- 📫 Let's connect on <a href="https://www.linkedin.com/in/aayushvarshney/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> or ping at aayushvarshney24@gmail.com incase you love the old way!
+- 📫 Let's connect on [![Linkedin Badge](https://img.shields.io/badge/-aayushvarshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayushvarshney)](https://www.linkedin.com/in/aayushvarshney) or ping at aayushvarshney24@gmail.com incase you love the old way!
 
 <img src="https://github-readme-stats.vercel.app/api?username=aayushvarshney&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aayush's github stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushvarshney&layout=compact&theme=buefy&hide_border=true" />
 
