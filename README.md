@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning `React.js`.
 - 📫 Let's connect on <a href="https://www.linkedin.com/in/aayushvarshney/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> or ping at aayushvarshney24@gmail.com incase you love the old way!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushvarshney&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aayush's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushvarshney&layout=compact&theme=buefy&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=aayushvarshney&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aayush's github stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushvarshney&layout=compact&theme=buefy&hide_border=true" />
 
 <!---
 aayushvarshney/aayushvarshney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
