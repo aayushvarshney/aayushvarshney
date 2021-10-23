@@ -7,8 +7,7 @@
 - 📫 Let's connect on [![Linkedin Badge](https://img.shields.io/badge/-aayushvarshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayushvarshney)](https://www.linkedin.com/in/aayushvarshney) or ping at aayushvarshney24@gmail.com incase you love the old way!
 
 
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushvarshney&layout=compact&theme=default&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushvarshney&layout=compact&hide_border=true)](https://github.com/aayushvarshney)
+<a href="https://github.com/aayushvarshney"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushvarshney&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aayush Varshney's GitHub Stats" /></a><a href="https://github.com/aayushvarshney"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushvarshney&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <!---
 aayushvarshney/aayushvarshney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
