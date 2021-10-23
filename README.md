@@ -7,7 +7,7 @@
 - 📫 Let's connect on [![Linkedin Badge](https://img.shields.io/badge/-aayushvarshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayushvarshney)](https://www.linkedin.com/in/aayushvarshney) or ping at aayushvarshney24@gmail.com incase you love the old way!
 
 
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushvarshney&layout=compact&show_icons=true&theme=default&hide_border=true)
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushvarshney&layout=compac&theme=default&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushvarshney&layout=compact&hide_border=true)](https://github.com/aayushvarshney)
 
 <!---
