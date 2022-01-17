@@ -4,9 +4,9 @@
 
 - &nbsp; ✌ Pre-final year **CSE undergrad** at `NIT Jalandhar`.
 - 👀 **Self-taught programmer** currently into `Web Development` and `Competitive Programming`. 
-- ⚡ Creative `problem solving enthusiast` and a `product guy`, with a constantly growing love for a **better UI/UX**.
+- ⚡ Creative `problem-solving enthusiast` and a `product guy`, with a constantly growing love for a **better UI/UX**.
 - 🌱 I’m currently **exploring** `React.js`.
-- 📫 **Interested for a talk?** Let's `Connect` over :
+- 📫 **Interested in a talk?** Let's `Connect` over :
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-aayushvarshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayushvarshney/)](https://www.linkedin.com/in/aayushvarshney/)
