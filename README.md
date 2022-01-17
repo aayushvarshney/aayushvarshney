@@ -4,7 +4,7 @@
 
 - &nbsp; ✌ Pre-final year **CSE undergrad** at `NIT Jalandhar`.
 - 👀 **Self-taught programmer** currently into `Web Development` and `Competitive Programming`. 
-- ⚡ Creative `problem-solving` enthusiast and a `product guy`, with a constantly growing love for a **better UI/UX**.
+- ⚡ Creative `problem-solving` enthusiast and a `software guy`, with a constantly growing love for a **better UI/UX**.
 - 🌱 I’m currently **exploring** `React.js`.
 - 📫 **Interested in a talk?** Let's `Connect` over :
 
